@@ -1,16 +1,11 @@
 # flutter_hive_db_app
 
-A new Flutter project.
+![Flutter_Hive](https://user-images.githubusercontent.com/62777613/225487416-31c08a70-050c-47b9-9a43-4287157a3cb7.PNG)
 
-## Getting Started
+![Flutter_Hive_2](https://user-images.githubusercontent.com/62777613/225487423-87965f52-1952-4c5e-b0d9-a58914655f65.PNG)
 
-This project is a starting point for a Flutter application.
+![Flutter_Hive_3](https://user-images.githubusercontent.com/62777613/225487441-f97c9b08-b49a-4cdc-885a-be68117d8ac3.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+# Game information
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adding a Flutter Hive DB Project and work: all the design of the application and is to add notes
